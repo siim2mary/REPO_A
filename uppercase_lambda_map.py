@@ -7,3 +7,4 @@ def convert_to_uppercase(strings):
 strings = ["hello", "world", "python", "lambda", "map"]
 uppercase_strings = convert_to_uppercase(strings)
 print(uppercase_strings)
+print("The result is:", uppercase_strings)
